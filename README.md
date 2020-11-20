@@ -1,3 +1,3 @@
 # SCRIPTS-Y-PAYLOADS-BY-EZE-FOR-WINDOWS-XP-VISTA-7-8-10
 
-TODO LO QUE USTED HAGA CON ESTOS ARCHIVOS QUEDA BAJO SU ABSOLUTA RESPONSABILIDAD Y MORAL,, EL CREADOR DE ESTOS ARCHIVOS NO SE HACE RESPONSABLE DE LOS DAÑOS Y ACTOS DELICTIVOS HECHOS CON ESTAS HERRAMIENTAS
+ El creador de estas herramientas (yo) no me responsabilizo de ningun acto ilicito hecho con estas herramientas. Todo lo que usted haga queda bajo su absoluta responsabilidad y moral
